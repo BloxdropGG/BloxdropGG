@@ -1,2 +1,0 @@
-local player = game.Players.LocalPlayer
-player:Kick("Please Try to execute again. If it won't stop please contact the person that gave you the script.")
